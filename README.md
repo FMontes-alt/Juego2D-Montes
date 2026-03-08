@@ -89,6 +89,14 @@ El juego utiliza un **sistema de animación basado en sprites** (sprite-swapping
 | **GameOver** | Texto "Game Over", puntuación final, botones Reintentar/Menú |
 | **WinScreen** | Texto "¡Nivel Completado!", puntuación y tiempo, botones Menú/Rejugar |
 
+### Menú Principal
+
+![Menú Principal de FruitWood](Docs/mainmenu.png)
+
+### Pantalla de Juego
+
+![Gameplay de FruitWood](Docs/gameplay.png)
+
 ---
 
 ## 7. Interfaz de Usuario (HUD)

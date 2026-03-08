@@ -249,7 +249,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: CRYSTAL CAVERN
+  m_Text: FRUITWOOD
 --- !u!222 &121515337
 CanvasRenderer:
   m_ObjectHideFlags: 0
